@@ -1,0 +1,1321 @@
+2013/04/29 13:12:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:13:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:13:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:14:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:16:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:16:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:16:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:16:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:16:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:16:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:16:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:16:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:16:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:16:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:16:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:16:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:16:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:18:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:18:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:18:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site
+---
+2013/04/29 13:18:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site
+---
+2013/04/29 13:18:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin
+---
+2013/04/29 13:18:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site
+---
+2013/04/29 13:18:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:18:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:18:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:18:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:18:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:19:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:19:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:19:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:19:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:19:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin/site/index".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/inde...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin/site/index
+---
+2013/04/29 13:25:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin
+---
+2013/04/29 13:25:42 [error] [php] include(SysAdmin.php): failed to open stream: No such file or directory (/var/www/require/framework/YiiBase.php:421)
+Stack trace:
+#0 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): spl_autoload_call()
+#1 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#2 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams()
+#3 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#4 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#5 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#6 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#7 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#8 /var/www/vhosts/yii-cms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php (13)
+in /var/www/vhosts/yii-cms/index.php (13)
+2013/04/29 13:26:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login".' in /var/www/require/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(270): CController->missingAction('login')
+#1 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#2 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#3 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:26:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login".' in /var/www/require/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(270): CController->missingAction('login')
+#1 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#2 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#3 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:26:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "login".' in /var/www/require/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(270): CController->missingAction('login')
+#1 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#2 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#3 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:27:11 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in /var/www/require/framework/YiiBase.php:341
+Stack trace:
+#0 /var/www/require/framework/web/CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 /var/www/require/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /var/www/require/framework/web/CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php(4): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 /var/www/require/framework/web/CBaseController.php(126): require('/var/www/vhosts...')
+#5 /var/www/require/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/vhosts...', Array, true)
+#6 /var/www/require/framework/web/CController.php(869): CBaseController->renderFile('/var/www/vhosts...', Array, true)
+#7 /var/www/require/framework/web/CController.php(782): CController->renderPartial('login_form', Array, true)
+#8 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): CController->render('login_form', Array)
+#9 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#10 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /var/www/require/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /var/www/require/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#14 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#15 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:28:11 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in /var/www/require/framework/YiiBase.php:341
+Stack trace:
+#0 /var/www/require/framework/web/CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 /var/www/require/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /var/www/require/framework/web/CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php(4): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 /var/www/require/framework/web/CBaseController.php(126): require('/var/www/vhosts...')
+#5 /var/www/require/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/vhosts...', Array, true)
+#6 /var/www/require/framework/web/CController.php(869): CBaseController->renderFile('/var/www/vhosts...', Array, true)
+#7 /var/www/require/framework/web/CController.php(782): CController->renderPartial('login_form', Array, true)
+#8 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): CController->render('login_form', Array)
+#9 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#10 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /var/www/require/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /var/www/require/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#14 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#15 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:28:11 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in /var/www/require/framework/YiiBase.php:341
+Stack trace:
+#0 /var/www/require/framework/web/CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 /var/www/require/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /var/www/require/framework/web/CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php(4): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 /var/www/require/framework/web/CBaseController.php(126): require('/var/www/vhosts...')
+#5 /var/www/require/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/vhosts...', Array, true)
+#6 /var/www/require/framework/web/CController.php(869): CBaseController->renderFile('/var/www/vhosts...', Array, true)
+#7 /var/www/require/framework/web/CController.php(782): CController->renderPartial('login_form', Array, true)
+#8 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): CController->render('login_form', Array)
+#9 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#10 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /var/www/require/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /var/www/require/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#14 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#15 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:28:12 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in /var/www/require/framework/YiiBase.php:341
+Stack trace:
+#0 /var/www/require/framework/web/CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 /var/www/require/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /var/www/require/framework/web/CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php(4): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 /var/www/require/framework/web/CBaseController.php(126): require('/var/www/vhosts...')
+#5 /var/www/require/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/vhosts...', Array, true)
+#6 /var/www/require/framework/web/CController.php(869): CBaseController->renderFile('/var/www/vhosts...', Array, true)
+#7 /var/www/require/framework/web/CController.php(782): CController->renderPartial('login_form', Array, true)
+#8 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): CController->render('login_form', Array)
+#9 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#10 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /var/www/require/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /var/www/require/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#14 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#15 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:28:12 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in /var/www/require/framework/YiiBase.php:341
+Stack trace:
+#0 /var/www/require/framework/web/CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 /var/www/require/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /var/www/require/framework/web/CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php(4): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 /var/www/require/framework/web/CBaseController.php(126): require('/var/www/vhosts...')
+#5 /var/www/require/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/vhosts...', Array, true)
+#6 /var/www/require/framework/web/CController.php(869): CBaseController->renderFile('/var/www/vhosts...', Array, true)
+#7 /var/www/require/framework/web/CController.php(782): CController->renderPartial('login_form', Array, true)
+#8 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): CController->render('login_form', Array)
+#9 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#10 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /var/www/require/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /var/www/require/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#14 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#15 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:28:13 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in /var/www/require/framework/YiiBase.php:341
+Stack trace:
+#0 /var/www/require/framework/web/CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 /var/www/require/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /var/www/require/framework/web/CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php(4): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 /var/www/require/framework/web/CBaseController.php(126): require('/var/www/vhosts...')
+#5 /var/www/require/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/vhosts...', Array, true)
+#6 /var/www/require/framework/web/CController.php(869): CBaseController->renderFile('/var/www/vhosts...', Array, true)
+#7 /var/www/require/framework/web/CController.php(782): CController->renderPartial('login_form', Array, true)
+#8 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): CController->render('login_form', Array)
+#9 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#10 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /var/www/require/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /var/www/require/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#14 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#15 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:28:39 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in /var/www/require/framework/YiiBase.php:341
+Stack trace:
+#0 /var/www/require/framework/web/CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 /var/www/require/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /var/www/require/framework/web/CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php(4): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 /var/www/require/framework/web/CBaseController.php(126): require('/var/www/vhosts...')
+#5 /var/www/require/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/vhosts...', Array, true)
+#6 /var/www/require/framework/web/CController.php(869): CBaseController->renderFile('/var/www/vhosts...', Array, true)
+#7 /var/www/require/framework/web/CController.php(782): CController->renderPartial('login_form', Array, true)
+#8 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): CController->render('login_form', Array)
+#9 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#10 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /var/www/require/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /var/www/require/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#14 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#15 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:28:40 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in /var/www/require/framework/YiiBase.php:341
+Stack trace:
+#0 /var/www/require/framework/web/CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 /var/www/require/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /var/www/require/framework/web/CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php(4): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 /var/www/require/framework/web/CBaseController.php(126): require('/var/www/vhosts...')
+#5 /var/www/require/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/vhosts...', Array, true)
+#6 /var/www/require/framework/web/CController.php(869): CBaseController->renderFile('/var/www/vhosts...', Array, true)
+#7 /var/www/require/framework/web/CController.php(782): CController->renderPartial('login_form', Array, true)
+#8 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): CController->render('login_form', Array)
+#9 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#10 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /var/www/require/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /var/www/require/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#14 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#15 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:28:40 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in /var/www/require/framework/YiiBase.php:341
+Stack trace:
+#0 /var/www/require/framework/web/CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 /var/www/require/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /var/www/require/framework/web/CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php(4): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 /var/www/require/framework/web/CBaseController.php(126): require('/var/www/vhosts...')
+#5 /var/www/require/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/vhosts...', Array, true)
+#6 /var/www/require/framework/web/CController.php(869): CBaseController->renderFile('/var/www/vhosts...', Array, true)
+#7 /var/www/require/framework/web/CController.php(782): CController->renderPartial('login_form', Array, true)
+#8 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): CController->render('login_form', Array)
+#9 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#10 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /var/www/require/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /var/www/require/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#14 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#15 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:28:40 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in /var/www/require/framework/YiiBase.php:341
+Stack trace:
+#0 /var/www/require/framework/web/CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 /var/www/require/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /var/www/require/framework/web/CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php(4): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 /var/www/require/framework/web/CBaseController.php(126): require('/var/www/vhosts...')
+#5 /var/www/require/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/vhosts...', Array, true)
+#6 /var/www/require/framework/web/CController.php(869): CBaseController->renderFile('/var/www/vhosts...', Array, true)
+#7 /var/www/require/framework/web/CController.php(782): CController->renderPartial('login_form', Array, true)
+#8 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): CController->render('login_form', Array)
+#9 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#10 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /var/www/require/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /var/www/require/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#14 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#15 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:28:40 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in /var/www/require/framework/YiiBase.php:341
+Stack trace:
+#0 /var/www/require/framework/web/CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 /var/www/require/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /var/www/require/framework/web/CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php(4): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 /var/www/require/framework/web/CBaseController.php(126): require('/var/www/vhosts...')
+#5 /var/www/require/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/vhosts...', Array, true)
+#6 /var/www/require/framework/web/CController.php(869): CBaseController->renderFile('/var/www/vhosts...', Array, true)
+#7 /var/www/require/framework/web/CController.php(782): CController->renderPartial('login_form', Array, true)
+#8 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): CController->render('login_form', Array)
+#9 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#10 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /var/www/require/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /var/www/require/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#14 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#15 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:28:40 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in /var/www/require/framework/YiiBase.php:341
+Stack trace:
+#0 /var/www/require/framework/web/CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 /var/www/require/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /var/www/require/framework/web/CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php(4): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 /var/www/require/framework/web/CBaseController.php(126): require('/var/www/vhosts...')
+#5 /var/www/require/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/vhosts...', Array, true)
+#6 /var/www/require/framework/web/CController.php(869): CBaseController->renderFile('/var/www/vhosts...', Array, true)
+#7 /var/www/require/framework/web/CController.php(782): CController->renderPartial('login_form', Array, true)
+#8 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): CController->render('login_form', Array)
+#9 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#10 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /var/www/require/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /var/www/require/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#14 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#15 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:28:41 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in /var/www/require/framework/YiiBase.php:341
+Stack trace:
+#0 /var/www/require/framework/web/CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 /var/www/require/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /var/www/require/framework/web/CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php(4): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 /var/www/require/framework/web/CBaseController.php(126): require('/var/www/vhosts...')
+#5 /var/www/require/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/vhosts...', Array, true)
+#6 /var/www/require/framework/web/CController.php(869): CBaseController->renderFile('/var/www/vhosts...', Array, true)
+#7 /var/www/require/framework/web/CController.php(782): CController->renderPartial('login_form', Array, true)
+#8 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): CController->render('login_form', Array)
+#9 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#10 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /var/www/require/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /var/www/require/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#14 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#15 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:28:41 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in /var/www/require/framework/YiiBase.php:341
+Stack trace:
+#0 /var/www/require/framework/web/CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 /var/www/require/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /var/www/require/framework/web/CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php(4): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 /var/www/require/framework/web/CBaseController.php(126): require('/var/www/vhosts...')
+#5 /var/www/require/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/vhosts...', Array, true)
+#6 /var/www/require/framework/web/CController.php(869): CBaseController->renderFile('/var/www/vhosts...', Array, true)
+#7 /var/www/require/framework/web/CController.php(782): CController->renderPartial('login_form', Array, true)
+#8 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): CController->render('login_form', Array)
+#9 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#10 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /var/www/require/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /var/www/require/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#14 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#15 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:28:41 [error] [exception.CException] exception 'CException' with message 'Alias "bootstrap.widgets.TbActiveForm" is invalid. Make sure it points to an existing directory or file.' in /var/www/require/framework/YiiBase.php:341
+Stack trace:
+#0 /var/www/require/framework/web/CWidgetFactory.php(146): YiiBase::import('bootstrap.widge...', true)
+#1 /var/www/require/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(SiteController), 'bootstrap.widge...', Array)
+#2 /var/www/require/framework/web/CBaseController.php(189): CBaseController->createWidget('bootstrap.widge...', Array)
+#3 /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php(4): CBaseController->beginWidget('bootstrap.widge...', Array)
+#4 /var/www/require/framework/web/CBaseController.php(126): require('/var/www/vhosts...')
+#5 /var/www/require/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/vhosts...', Array, true)
+#6 /var/www/require/framework/web/CController.php(869): CBaseController->renderFile('/var/www/vhosts...', Array, true)
+#7 /var/www/require/framework/web/CController.php(782): CController->renderPartial('login_form', Array, true)
+#8 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): CController->render('login_form', Array)
+#9 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#10 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#11 /var/www/require/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#12 /var/www/require/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#13 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#14 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#15 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#17 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:29:27 [error] [php] Undefined variable: model (/var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php:6)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(869): SiteController->renderFile()
+#1 /var/www/require/framework/web/CController.php(782): SiteController->renderPartial()
+#2 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): SiteController->render()
+#3 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#4 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#6 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/vhosts/yii-cms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php (6)
+in /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php (13)
+in /var/www/vhosts/yii-cms/index.php (13)
+2013/04/29 13:29:28 [error] [php] Undefined variable: model (/var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php:6)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(869): SiteController->renderFile()
+#1 /var/www/require/framework/web/CController.php(782): SiteController->renderPartial()
+#2 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): SiteController->render()
+#3 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#4 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#6 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/vhosts/yii-cms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php (6)
+in /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php (13)
+in /var/www/vhosts/yii-cms/index.php (13)
+2013/04/29 13:29:29 [error] [php] Undefined variable: model (/var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php:6)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(869): SiteController->renderFile()
+#1 /var/www/require/framework/web/CController.php(782): SiteController->renderPartial()
+#2 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): SiteController->render()
+#3 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#4 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#6 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/vhosts/yii-cms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php (6)
+in /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php (13)
+in /var/www/vhosts/yii-cms/index.php (13)
+2013/04/29 13:29:29 [error] [php] Undefined variable: model (/var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php:6)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(869): SiteController->renderFile()
+#1 /var/www/require/framework/web/CController.php(782): SiteController->renderPartial()
+#2 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): SiteController->render()
+#3 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#4 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#6 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/vhosts/yii-cms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php (6)
+in /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php (13)
+in /var/www/vhosts/yii-cms/index.php (13)
+2013/04/29 13:29:29 [error] [php] Undefined variable: model (/var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php:6)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(869): SiteController->renderFile()
+#1 /var/www/require/framework/web/CController.php(782): SiteController->renderPartial()
+#2 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): SiteController->render()
+#3 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#4 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#6 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/vhosts/yii-cms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php (6)
+in /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php (13)
+in /var/www/vhosts/yii-cms/index.php (13)
+2013/04/29 13:29:30 [error] [php] Undefined variable: model (/var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php:6)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(869): SiteController->renderFile()
+#1 /var/www/require/framework/web/CController.php(782): SiteController->renderPartial()
+#2 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): SiteController->render()
+#3 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#4 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#6 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/vhosts/yii-cms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php (6)
+in /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php (13)
+in /var/www/vhosts/yii-cms/index.php (13)
+2013/04/29 13:29:30 [error] [php] Undefined variable: model (/var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php:6)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(869): SiteController->renderFile()
+#1 /var/www/require/framework/web/CController.php(782): SiteController->renderPartial()
+#2 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): SiteController->render()
+#3 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#4 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#6 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/vhosts/yii-cms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php (6)
+in /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php (13)
+in /var/www/vhosts/yii-cms/index.php (13)
+2013/04/29 13:29:30 [error] [php] Undefined variable: model (/var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php:6)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(869): SiteController->renderFile()
+#1 /var/www/require/framework/web/CController.php(782): SiteController->renderPartial()
+#2 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): SiteController->render()
+#3 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#4 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#6 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/vhosts/yii-cms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php (6)
+in /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php (13)
+in /var/www/vhosts/yii-cms/index.php (13)
+2013/04/29 13:29:30 [error] [php] Undefined variable: model (/var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php:6)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(869): SiteController->renderFile()
+#1 /var/www/require/framework/web/CController.php(782): SiteController->renderPartial()
+#2 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): SiteController->render()
+#3 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#4 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#6 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/vhosts/yii-cms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php (6)
+in /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php (13)
+in /var/www/vhosts/yii-cms/index.php (13)
+2013/04/29 13:29:30 [error] [php] Undefined variable: model (/var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php:6)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(869): SiteController->renderFile()
+#1 /var/www/require/framework/web/CController.php(782): SiteController->renderPartial()
+#2 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): SiteController->render()
+#3 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#4 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#6 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/vhosts/yii-cms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php (6)
+in /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php (13)
+in /var/www/vhosts/yii-cms/index.php (13)
+2013/04/29 13:29:31 [error] [php] Undefined variable: model (/var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php:6)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(869): SiteController->renderFile()
+#1 /var/www/require/framework/web/CController.php(782): SiteController->renderPartial()
+#2 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): SiteController->render()
+#3 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#4 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#6 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/vhosts/yii-cms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php (6)
+in /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php (13)
+in /var/www/vhosts/yii-cms/index.php (13)
+2013/04/29 13:29:31 [error] [php] Undefined variable: model (/var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php:6)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(869): SiteController->renderFile()
+#1 /var/www/require/framework/web/CController.php(782): SiteController->renderPartial()
+#2 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): SiteController->render()
+#3 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#4 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#6 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/vhosts/yii-cms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php (6)
+in /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php (13)
+in /var/www/vhosts/yii-cms/index.php (13)
+2013/04/29 13:29:31 [error] [php] Undefined variable: model (/var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php:6)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(869): SiteController->renderFile()
+#1 /var/www/require/framework/web/CController.php(782): SiteController->renderPartial()
+#2 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): SiteController->render()
+#3 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#4 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#6 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/vhosts/yii-cms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php (6)
+in /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php (13)
+in /var/www/vhosts/yii-cms/index.php (13)
+2013/04/29 13:29:31 [error] [php] Undefined variable: model (/var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php:6)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(869): SiteController->renderFile()
+#1 /var/www/require/framework/web/CController.php(782): SiteController->renderPartial()
+#2 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): SiteController->render()
+#3 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#4 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#6 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/vhosts/yii-cms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php (6)
+in /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php (13)
+in /var/www/vhosts/yii-cms/index.php (13)
+2013/04/29 13:34:45 [error] [php] Undefined variable: model (/var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php:6)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(869): SiteController->renderFile()
+#1 /var/www/require/framework/web/CController.php(782): SiteController->renderPartial()
+#2 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): SiteController->render()
+#3 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#4 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#6 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/vhosts/yii-cms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php (6)
+in /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php (13)
+in /var/www/vhosts/yii-cms/index.php (13)
+2013/04/29 13:35:06 [error] [php] Undefined variable: model (/var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php:6)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(869): SiteController->renderFile()
+#1 /var/www/require/framework/web/CController.php(782): SiteController->renderPartial()
+#2 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): SiteController->render()
+#3 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#4 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#6 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/vhosts/yii-cms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php (6)
+in /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php (13)
+in /var/www/vhosts/yii-cms/index.php (13)
+2013/04/29 13:35:17 [error] [php] Undefined variable: model (/var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php:6)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(869): SiteController->renderFile()
+#1 /var/www/require/framework/web/CController.php(782): SiteController->renderPartial()
+#2 /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php(13): SiteController->render()
+#3 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#4 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#6 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/vhosts/yii-cms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/yii-cms/protected/modules/admin/views/site/login_form.php (6)
+in /var/www/vhosts/yii-cms/protected/modules/admin/controllers/SiteController.php (13)
+in /var/www/vhosts/yii-cms/index.php (13)
+2013/04/29 13:35:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2013/04/29 13:36:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "gii".' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=gii
+---
+2013/04/29 13:41:36 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "/var/www/vhosts/yii-cms/assets" is invalid. Please make sure the directory exists and is writable by the Web server process.' in /var/www/require/framework/web/CAssetManager.php:138
+Stack trace:
+#0 /var/www/require/framework/web/CAssetManager.php(123): CAssetManager->setBasePath('/var/www/vhosts...')
+#1 /var/www/require/framework/web/CAssetManager.php(217): CAssetManager->getBasePath()
+#2 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(532): CAssetManager->publish('/var/www/vhosts...', false, -1, false)
+#3 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(211): Bootstrap->getAssetsUrl()
+#4 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(163): Bootstrap->registerAssetCss('bootstrap.css')
+#5 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(138): Bootstrap->registerCoreCss()
+#6 /var/www/require/framework/base/CModule.php(387): Bootstrap->init()
+#7 /var/www/vhosts/yii-cms/protected/modules/admin/AdminModule.php(6): CModule->getComponent('bootstrap')
+#8 /var/www/require/framework/base/CModule.php(90): AdminModule->init()
+#9 /var/www/require/framework/YiiBase.php(206): CModule->__construct('admin', NULL, Array)
+#10 /var/www/require/framework/base/CModule.php(282): YiiBase::createComponent('admin.AdminModu...', 'admin', NULL, Array)
+#11 /var/www/require/framework/web/CWebApplication.php(337): CModule->getModule('admin')
+#12 /var/www/require/framework/web/CWebApplication.php(276): CWebApplication->createController('admin/site/logi...')
+#13 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#14 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#15 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:41:37 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "/var/www/vhosts/yii-cms/assets" is invalid. Please make sure the directory exists and is writable by the Web server process.' in /var/www/require/framework/web/CAssetManager.php:138
+Stack trace:
+#0 /var/www/require/framework/web/CAssetManager.php(123): CAssetManager->setBasePath('/var/www/vhosts...')
+#1 /var/www/require/framework/web/CAssetManager.php(217): CAssetManager->getBasePath()
+#2 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(532): CAssetManager->publish('/var/www/vhosts...', false, -1, false)
+#3 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(211): Bootstrap->getAssetsUrl()
+#4 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(163): Bootstrap->registerAssetCss('bootstrap.css')
+#5 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(138): Bootstrap->registerCoreCss()
+#6 /var/www/require/framework/base/CModule.php(387): Bootstrap->init()
+#7 /var/www/vhosts/yii-cms/protected/modules/admin/AdminModule.php(6): CModule->getComponent('bootstrap')
+#8 /var/www/require/framework/base/CModule.php(90): AdminModule->init()
+#9 /var/www/require/framework/YiiBase.php(206): CModule->__construct('admin', NULL, Array)
+#10 /var/www/require/framework/base/CModule.php(282): YiiBase::createComponent('admin.AdminModu...', 'admin', NULL, Array)
+#11 /var/www/require/framework/web/CWebApplication.php(337): CModule->getModule('admin')
+#12 /var/www/require/framework/web/CWebApplication.php(276): CWebApplication->createController('admin/site/logi...')
+#13 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#14 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#15 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:41:37 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "/var/www/vhosts/yii-cms/assets" is invalid. Please make sure the directory exists and is writable by the Web server process.' in /var/www/require/framework/web/CAssetManager.php:138
+Stack trace:
+#0 /var/www/require/framework/web/CAssetManager.php(123): CAssetManager->setBasePath('/var/www/vhosts...')
+#1 /var/www/require/framework/web/CAssetManager.php(217): CAssetManager->getBasePath()
+#2 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(532): CAssetManager->publish('/var/www/vhosts...', false, -1, false)
+#3 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(211): Bootstrap->getAssetsUrl()
+#4 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(163): Bootstrap->registerAssetCss('bootstrap.css')
+#5 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(138): Bootstrap->registerCoreCss()
+#6 /var/www/require/framework/base/CModule.php(387): Bootstrap->init()
+#7 /var/www/vhosts/yii-cms/protected/modules/admin/AdminModule.php(6): CModule->getComponent('bootstrap')
+#8 /var/www/require/framework/base/CModule.php(90): AdminModule->init()
+#9 /var/www/require/framework/YiiBase.php(206): CModule->__construct('admin', NULL, Array)
+#10 /var/www/require/framework/base/CModule.php(282): YiiBase::createComponent('admin.AdminModu...', 'admin', NULL, Array)
+#11 /var/www/require/framework/web/CWebApplication.php(337): CModule->getModule('admin')
+#12 /var/www/require/framework/web/CWebApplication.php(276): CWebApplication->createController('admin/site/logi...')
+#13 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#14 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#15 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:41:38 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "/var/www/vhosts/yii-cms/assets" is invalid. Please make sure the directory exists and is writable by the Web server process.' in /var/www/require/framework/web/CAssetManager.php:138
+Stack trace:
+#0 /var/www/require/framework/web/CAssetManager.php(123): CAssetManager->setBasePath('/var/www/vhosts...')
+#1 /var/www/require/framework/web/CAssetManager.php(217): CAssetManager->getBasePath()
+#2 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(532): CAssetManager->publish('/var/www/vhosts...', false, -1, false)
+#3 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(211): Bootstrap->getAssetsUrl()
+#4 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(163): Bootstrap->registerAssetCss('bootstrap.css')
+#5 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(138): Bootstrap->registerCoreCss()
+#6 /var/www/require/framework/base/CModule.php(387): Bootstrap->init()
+#7 /var/www/vhosts/yii-cms/protected/modules/admin/AdminModule.php(6): CModule->getComponent('bootstrap')
+#8 /var/www/require/framework/base/CModule.php(90): AdminModule->init()
+#9 /var/www/require/framework/YiiBase.php(206): CModule->__construct('admin', NULL, Array)
+#10 /var/www/require/framework/base/CModule.php(282): YiiBase::createComponent('admin.AdminModu...', 'admin', NULL, Array)
+#11 /var/www/require/framework/web/CWebApplication.php(337): CModule->getModule('admin')
+#12 /var/www/require/framework/web/CWebApplication.php(276): CWebApplication->createController('admin/site/logi...')
+#13 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#14 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#15 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:41:38 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "/var/www/vhosts/yii-cms/assets" is invalid. Please make sure the directory exists and is writable by the Web server process.' in /var/www/require/framework/web/CAssetManager.php:138
+Stack trace:
+#0 /var/www/require/framework/web/CAssetManager.php(123): CAssetManager->setBasePath('/var/www/vhosts...')
+#1 /var/www/require/framework/web/CAssetManager.php(217): CAssetManager->getBasePath()
+#2 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(532): CAssetManager->publish('/var/www/vhosts...', false, -1, false)
+#3 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(211): Bootstrap->getAssetsUrl()
+#4 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(163): Bootstrap->registerAssetCss('bootstrap.css')
+#5 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(138): Bootstrap->registerCoreCss()
+#6 /var/www/require/framework/base/CModule.php(387): Bootstrap->init()
+#7 /var/www/vhosts/yii-cms/protected/modules/admin/AdminModule.php(6): CModule->getComponent('bootstrap')
+#8 /var/www/require/framework/base/CModule.php(90): AdminModule->init()
+#9 /var/www/require/framework/YiiBase.php(206): CModule->__construct('admin', NULL, Array)
+#10 /var/www/require/framework/base/CModule.php(282): YiiBase::createComponent('admin.AdminModu...', 'admin', NULL, Array)
+#11 /var/www/require/framework/web/CWebApplication.php(337): CModule->getModule('admin')
+#12 /var/www/require/framework/web/CWebApplication.php(276): CWebApplication->createController('admin/site/logi...')
+#13 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#14 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#15 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:41:38 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "/var/www/vhosts/yii-cms/assets" is invalid. Please make sure the directory exists and is writable by the Web server process.' in /var/www/require/framework/web/CAssetManager.php:138
+Stack trace:
+#0 /var/www/require/framework/web/CAssetManager.php(123): CAssetManager->setBasePath('/var/www/vhosts...')
+#1 /var/www/require/framework/web/CAssetManager.php(217): CAssetManager->getBasePath()
+#2 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(532): CAssetManager->publish('/var/www/vhosts...', false, -1, false)
+#3 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(211): Bootstrap->getAssetsUrl()
+#4 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(163): Bootstrap->registerAssetCss('bootstrap.css')
+#5 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(138): Bootstrap->registerCoreCss()
+#6 /var/www/require/framework/base/CModule.php(387): Bootstrap->init()
+#7 /var/www/vhosts/yii-cms/protected/modules/admin/AdminModule.php(6): CModule->getComponent('bootstrap')
+#8 /var/www/require/framework/base/CModule.php(90): AdminModule->init()
+#9 /var/www/require/framework/YiiBase.php(206): CModule->__construct('admin', NULL, Array)
+#10 /var/www/require/framework/base/CModule.php(282): YiiBase::createComponent('admin.AdminModu...', 'admin', NULL, Array)
+#11 /var/www/require/framework/web/CWebApplication.php(337): CModule->getModule('admin')
+#12 /var/www/require/framework/web/CWebApplication.php(276): CWebApplication->createController('admin/site/logi...')
+#13 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#14 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#15 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:41:38 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "/var/www/vhosts/yii-cms/assets" is invalid. Please make sure the directory exists and is writable by the Web server process.' in /var/www/require/framework/web/CAssetManager.php:138
+Stack trace:
+#0 /var/www/require/framework/web/CAssetManager.php(123): CAssetManager->setBasePath('/var/www/vhosts...')
+#1 /var/www/require/framework/web/CAssetManager.php(217): CAssetManager->getBasePath()
+#2 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(532): CAssetManager->publish('/var/www/vhosts...', false, -1, false)
+#3 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(211): Bootstrap->getAssetsUrl()
+#4 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(163): Bootstrap->registerAssetCss('bootstrap.css')
+#5 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(138): Bootstrap->registerCoreCss()
+#6 /var/www/require/framework/base/CModule.php(387): Bootstrap->init()
+#7 /var/www/vhosts/yii-cms/protected/modules/admin/AdminModule.php(6): CModule->getComponent('bootstrap')
+#8 /var/www/require/framework/base/CModule.php(90): AdminModule->init()
+#9 /var/www/require/framework/YiiBase.php(206): CModule->__construct('admin', NULL, Array)
+#10 /var/www/require/framework/base/CModule.php(282): YiiBase::createComponent('admin.AdminModu...', 'admin', NULL, Array)
+#11 /var/www/require/framework/web/CWebApplication.php(337): CModule->getModule('admin')
+#12 /var/www/require/framework/web/CWebApplication.php(276): CWebApplication->createController('admin/site/logi...')
+#13 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#14 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#15 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:41:38 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "/var/www/vhosts/yii-cms/assets" is invalid. Please make sure the directory exists and is writable by the Web server process.' in /var/www/require/framework/web/CAssetManager.php:138
+Stack trace:
+#0 /var/www/require/framework/web/CAssetManager.php(123): CAssetManager->setBasePath('/var/www/vhosts...')
+#1 /var/www/require/framework/web/CAssetManager.php(217): CAssetManager->getBasePath()
+#2 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(532): CAssetManager->publish('/var/www/vhosts...', false, -1, false)
+#3 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(211): Bootstrap->getAssetsUrl()
+#4 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(163): Bootstrap->registerAssetCss('bootstrap.css')
+#5 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(138): Bootstrap->registerCoreCss()
+#6 /var/www/require/framework/base/CModule.php(387): Bootstrap->init()
+#7 /var/www/vhosts/yii-cms/protected/modules/admin/AdminModule.php(6): CModule->getComponent('bootstrap')
+#8 /var/www/require/framework/base/CModule.php(90): AdminModule->init()
+#9 /var/www/require/framework/YiiBase.php(206): CModule->__construct('admin', NULL, Array)
+#10 /var/www/require/framework/base/CModule.php(282): YiiBase::createComponent('admin.AdminModu...', 'admin', NULL, Array)
+#11 /var/www/require/framework/web/CWebApplication.php(337): CModule->getModule('admin')
+#12 /var/www/require/framework/web/CWebApplication.php(276): CWebApplication->createController('admin/site/logi...')
+#13 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#14 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#15 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:41:38 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "/var/www/vhosts/yii-cms/assets" is invalid. Please make sure the directory exists and is writable by the Web server process.' in /var/www/require/framework/web/CAssetManager.php:138
+Stack trace:
+#0 /var/www/require/framework/web/CAssetManager.php(123): CAssetManager->setBasePath('/var/www/vhosts...')
+#1 /var/www/require/framework/web/CAssetManager.php(217): CAssetManager->getBasePath()
+#2 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(532): CAssetManager->publish('/var/www/vhosts...', false, -1, false)
+#3 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(211): Bootstrap->getAssetsUrl()
+#4 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(163): Bootstrap->registerAssetCss('bootstrap.css')
+#5 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(138): Bootstrap->registerCoreCss()
+#6 /var/www/require/framework/base/CModule.php(387): Bootstrap->init()
+#7 /var/www/vhosts/yii-cms/protected/modules/admin/AdminModule.php(6): CModule->getComponent('bootstrap')
+#8 /var/www/require/framework/base/CModule.php(90): AdminModule->init()
+#9 /var/www/require/framework/YiiBase.php(206): CModule->__construct('admin', NULL, Array)
+#10 /var/www/require/framework/base/CModule.php(282): YiiBase::createComponent('admin.AdminModu...', 'admin', NULL, Array)
+#11 /var/www/require/framework/web/CWebApplication.php(337): CModule->getModule('admin')
+#12 /var/www/require/framework/web/CWebApplication.php(276): CWebApplication->createController('admin/site/logi...')
+#13 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#14 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#15 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 13:41:39 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "/var/www/vhosts/yii-cms/assets" is invalid. Please make sure the directory exists and is writable by the Web server process.' in /var/www/require/framework/web/CAssetManager.php:138
+Stack trace:
+#0 /var/www/require/framework/web/CAssetManager.php(123): CAssetManager->setBasePath('/var/www/vhosts...')
+#1 /var/www/require/framework/web/CAssetManager.php(217): CAssetManager->getBasePath()
+#2 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(532): CAssetManager->publish('/var/www/vhosts...', false, -1, false)
+#3 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(211): Bootstrap->getAssetsUrl()
+#4 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(163): Bootstrap->registerAssetCss('bootstrap.css')
+#5 /var/www/vhosts/yii-cms/protected/extensions/bootstrap/components/Bootstrap.php(138): Bootstrap->registerCoreCss()
+#6 /var/www/require/framework/base/CModule.php(387): Bootstrap->init()
+#7 /var/www/vhosts/yii-cms/protected/modules/admin/AdminModule.php(6): CModule->getComponent('bootstrap')
+#8 /var/www/require/framework/base/CModule.php(90): AdminModule->init()
+#9 /var/www/require/framework/YiiBase.php(206): CModule->__construct('admin', NULL, Array)
+#10 /var/www/require/framework/base/CModule.php(282): YiiBase::createComponent('admin.AdminModu...', 'admin', NULL, Array)
+#11 /var/www/require/framework/web/CWebApplication.php(337): CModule->getModule('admin')
+#12 /var/www/require/framework/web/CWebApplication.php(276): CWebApplication->createController('admin/site/logi...')
+#13 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#14 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#15 /var/www/vhosts/yii-cms/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
