@@ -1,5 +1,6 @@
 <?php
 class AdminModuleController extends CController {
+	
 	public $admin;
 	public $baseUrl = '/admin';
 
@@ -20,6 +21,7 @@ class AdminModuleController extends CController {
 			$this->redirect(Yii::app()->createUrl('admin/site/index'));
 			return false;
 		}
+		$this->admin = Yii::app()->session['admin'];
 		return true;
     }
 }

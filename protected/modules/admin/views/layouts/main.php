@@ -8,7 +8,7 @@
 	<body>
 		<?php 
 			$this->widget('bootstrap.widgets.TbNavbar', array(
-				'brand' => 'Film Adası',
+				'brand' => 'YiiCMS',
 				'brandOptions' => array('style'=>'width:auto;margin-left: 0px;'),
 				'fixed' => 'top',
 				'htmlOptions' => array('style' => 'position:absolute'),
@@ -21,17 +21,7 @@
 							array('label' => 'Sayfalar', 'url' => '#','items' => array(
 								array('label'=>'Sayfa Ekle', 'url'=> Yii::app()->createUrl('admin/page/create')),
 								array('label'=>'Sayfa Listesi', 'url'=> Yii::app()->createUrl('admin/page/list')),
-								 )),
-							array('label' => 'Kategoriler', 'url' => '#', 'items' => array(
-								array('label' => 'Kategori Ekle', 'url' => Yii::app()->createUrl('admin/category/create')),
-								array('label' => 'Kategori Listesi', 'url' => Yii::app()->createUrl('admin/category/list')),
-								)),
-							array('label' => 'Filmler', 'url' => '#', 'items' => array(
-								array('label' => 'Film Ekle', 'url' => Yii::app()->createUrl('admin/movie/create')),
-								array('label' => 'Film Listesi', 'url' => Yii::app()->createUrl('admin/movie/list')),
-								)),
-							array('label' => 'Link', 'url' => '#'),
-							
+								 )),							
 							'---',
 						)
 					),
@@ -42,7 +32,7 @@
 							'---',
 							array('label'=>'Hesabım', 'url'=>'#', 'items'=>array(
 								array('label'=>'Ayarlar', 'url'=>'#'),
-								array('label'=>'Şifremi Değiştir', 'url'=>'#'),
+								array('label'=>'Şifremi Değiştir', 'url'=>Yii::app()->createUrl('admin/sysadmin/changepassword')),
 								'---',
 								array('label'=>'Çıkış Yap', 'url'=>Yii::app()->createUrl('admin/site/logout')),
 							)),

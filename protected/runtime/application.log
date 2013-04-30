@@ -1319,3 +1319,225 @@ Stack trace:
 #16 {main}
 REQUEST_URI=/index.php?r=admin/site/login
 ---
+2013/04/29 20:22:24 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "/var/www/vhosts/YiiCms/assets" yolu geçersiz. Web sunucusu işlemi tarafından yazma izni olduğuna emin olun.' in /var/www/require/framework/web/CAssetManager.php:138
+Stack trace:
+#0 /var/www/require/framework/web/CAssetManager.php(123): CAssetManager->setBasePath('/var/www/vhosts...')
+#1 /var/www/require/framework/web/CAssetManager.php(217): CAssetManager->getBasePath()
+#2 /var/www/vhosts/YiiCms/protected/extensions/bootstrap/components/Bootstrap.php(532): CAssetManager->publish('/var/www/vhosts...', false, -1, false)
+#3 /var/www/vhosts/YiiCms/protected/extensions/bootstrap/components/Bootstrap.php(211): Bootstrap->getAssetsUrl()
+#4 /var/www/vhosts/YiiCms/protected/extensions/bootstrap/components/Bootstrap.php(163): Bootstrap->registerAssetCss('bootstrap.css')
+#5 /var/www/vhosts/YiiCms/protected/extensions/bootstrap/components/Bootstrap.php(138): Bootstrap->registerCoreCss()
+#6 /var/www/require/framework/base/CModule.php(387): Bootstrap->init()
+#7 /var/www/vhosts/YiiCms/protected/modules/admin/AdminModule.php(6): CModule->getComponent('bootstrap')
+#8 /var/www/require/framework/base/CModule.php(90): AdminModule->init()
+#9 /var/www/require/framework/YiiBase.php(206): CModule->__construct('admin', NULL, Array)
+#10 /var/www/require/framework/base/CModule.php(282): YiiBase::createComponent('admin.AdminModu...', 'admin', NULL, Array)
+#11 /var/www/require/framework/web/CWebApplication.php(337): CModule->getModule('admin')
+#12 /var/www/require/framework/web/CWebApplication.php(276): CWebApplication->createController('admin')
+#13 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin')
+#14 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#15 /var/www/vhosts/YiiCms/index.php(13): CApplication->run()
+#16 {main}
+REQUEST_URI=/index.php?r=admin
+---
+2013/04/29 20:22:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message '"admin" isteği çözümlenemedi.' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/YiiCms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php?r=admin
+---
+2013/04/29 20:22:49 [error] [exception.CDbException] exception 'CDbException' with message 'CDbConnection failed to open the DB connection: SQLSTATE[42000] [1049] Unknown database 'yii-cms'' in /var/www/require/framework/db/CDbConnection.php:381
+Stack trace:
+#0 /var/www/require/framework/db/CDbConnection.php(330): CDbConnection->open()
+#1 /var/www/require/framework/db/CDbConnection.php(308): CDbConnection->setActive(true)
+#2 /var/www/require/framework/base/CModule.php(387): CDbConnection->init()
+#3 /var/www/require/framework/base/CApplication.php(438): CModule->getComponent('db')
+#4 /var/www/require/framework/db/ar/CActiveRecord.php(623): CApplication->getDb()
+#5 /var/www/require/framework/db/ar/CActiveRecord.php(2309): CActiveRecord->getDbConnection()
+#6 /var/www/require/framework/db/ar/CActiveRecord.php(387): CActiveRecordMetaData->__construct(Object(SysAdmin))
+#7 /var/www/require/framework/db/ar/CActiveRecord.php(402): CActiveRecord::model('SysAdmin')
+#8 /var/www/require/framework/db/ar/CActiveRecord.php(77): CActiveRecord->getMetaData()
+#9 /var/www/vhosts/YiiCms/protected/modules/admin/controllers/SiteController.php(12): CActiveRecord->__construct()
+#10 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#11 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#12 /var/www/require/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#13 /var/www/require/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#15 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#16 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#17 /var/www/vhosts/YiiCms/index.php(13): CApplication->run()
+#18 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+---
+2013/04/29 20:30:54 [error] [php] Undefined variable: flasMessages (/var/www/vhosts/YiiCms/protected/modules/admin/views/site/login_form.php:3)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(869): SiteController->renderFile()
+#1 /var/www/require/framework/web/CController.php(782): SiteController->renderPartial()
+#2 /var/www/vhosts/YiiCms/protected/modules/admin/controllers/SiteController.php(19): SiteController->render()
+#3 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#4 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams()
+#5 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#6 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#7 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#8 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#9 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/vhosts/YiiCms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/YiiCms/protected/modules/admin/views/site/login_form.php (3)
+in /var/www/vhosts/YiiCms/protected/modules/admin/controllers/SiteController.php (19)
+in /var/www/vhosts/YiiCms/index.php (13)
+2013/04/29 20:50:52 [error] [php] Undefined index: username (/var/www/vhosts/YiiCms/protected/modules/admin/controllers/SiteController.php:15)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#1 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#2 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#3 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#5 /var/www/vhosts/YiiCms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/YiiCms/protected/modules/admin/controllers/SiteController.php (15)
+in /var/www/vhosts/YiiCms/index.php (13)
+2013/04/29 21:04:07 [error] [exception.CException] exception 'CException' with message '"CWebUser.session" özelliği tanımlanmamıştır.' in /var/www/require/framework/base/CComponent.php:130
+Stack trace:
+#0 /var/www/require/framework/web/auth/CWebUser.php(140): CComponent->__get('session')
+#1 /var/www/vhosts/YiiCms/protected/modules/admin/controllers/SiteController.php(15): CWebUser->__get('session')
+#2 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#3 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /var/www/require/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /var/www/require/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#7 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#8 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#9 /var/www/vhosts/YiiCms/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/index.php?r=admin/site/login
+HTTP_REFERER=http://www.yiicms.local/index.php?r=admin/site/login
+---
+2013/04/29 21:07:03 [error] [php] Indirect modification of overloaded element of CHttpSession has no effect (/var/www/vhosts/YiiCms/protected/modules/admin/controllers/SiteController.php:25)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#1 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#2 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#3 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#5 /var/www/vhosts/YiiCms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/YiiCms/protected/modules/admin/controllers/SiteController.php (25)
+in /var/www/vhosts/YiiCms/index.php (13)
+2013/04/30 08:34:05 [error] [php] Undefined variable: user (/var/www/vhosts/YiiCms/protected/modules/admin/controllers/SiteController.php:13)
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(286): SiteController->runAction()
+#1 /var/www/require/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#2 /var/www/require/framework/web/CWebApplication.php(282): SiteController->run()
+#3 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#5 /var/www/vhosts/YiiCms/index.php(13): CWebApplication->run()
+REQUEST_URI=/index.php?r=admin/site/login
+in /var/www/vhosts/YiiCms/protected/modules/admin/controllers/SiteController.php (13)
+in /var/www/vhosts/YiiCms/index.php (13)
+2013/04/30 08:41:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message '"admin/movie/create" isteği çözümlenemedi.' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/movie/cre...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/YiiCms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/vhosts/YiiCms/index.php?r=admin/movie/create
+HTTP_REFERER=http://localhost/vhosts/YiiCms/index.php?r=admin/site/index
+---
+2013/04/30 08:43:35 [error] [exception.CException] exception 'CException' with message 'SysAdmin and its behaviors do not have a method or closure named "select".' in /var/www/require/framework/base/CComponent.php:265
+Stack trace:
+#0 /var/www/require/framework/db/ar/CActiveRecord.php(225): CComponent->__call('select', Array)
+#1 /var/www/vhosts/YiiCms/protected/modules/admin/controllers/SiteController.php(20): CActiveRecord->__call('select', Array)
+#2 /var/www/vhosts/YiiCms/protected/modules/admin/controllers/SiteController.php(20): SysAdmin->select('id_sys_admin')
+#3 /var/www/require/framework/web/actions/CInlineAction.php(49): SiteController->actionLogin()
+#4 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /var/www/require/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#6 /var/www/require/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/require/framework/web/CWebApplication.php(282): CController->run('login')
+#8 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/logi...')
+#9 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/vhosts/YiiCms/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/vhosts/YiiCms/index.php?r=admin/site/login
+HTTP_REFERER=http://localhost/vhosts/YiiCms/index.php?r=admin/site/login
+---
+2013/04/30 08:53:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message '"admin/sysadmin/changepassword" isteği çözümlenemedi.' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/sysadmin/...')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/YiiCms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/vhosts/YiiCms/index.php?r=admin/sysadmin/changepassword
+HTTP_REFERER=http://localhost/vhosts/YiiCms/index.php?r=admin/site/index
+---
+2013/04/30 08:55:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Sistem istek yapılan "ind7ex" aksiyonunu bulamadı.' in /var/www/require/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(270): CController->missingAction('ind7ex')
+#1 /var/www/require/framework/web/CWebApplication.php(282): CController->run('ind7ex')
+#2 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/site/ind7...')
+#3 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/vhosts/YiiCms/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/vhosts/YiiCms/index.php?r=admin/site/ind7ex
+---
+2013/04/30 08:58:09 [error] [exception.CException] exception 'CException' with message 'SysadminController, istenen "changepassword" görünümünü bulamadı.' in /var/www/require/framework/web/CController.php:878
+Stack trace:
+#0 /var/www/require/framework/web/CController.php(782): CController->renderPartial('changepassword', Array, true)
+#1 /var/www/vhosts/YiiCms/protected/modules/admin/controllers/SysadminController.php(12): CController->render('changepassword', Array)
+#2 /var/www/require/framework/web/actions/CInlineAction.php(49): SysadminController->actionChangepassword()
+#3 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /var/www/require/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /var/www/require/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /var/www/require/framework/web/CWebApplication.php(282): CController->run('changepassword')
+#7 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/sysadmin/...')
+#8 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#9 /var/www/vhosts/YiiCms/index.php(13): CApplication->run()
+#10 {main}
+REQUEST_URI=/vhosts/YiiCms/index.php?r=admin/sysadmin/changepassword
+HTTP_REFERER=http://localhost/vhosts/YiiCms/index.php?r=admin/site/index
+---
+2013/04/30 09:01:19 [error] [php] get_class() expects parameter 1 to be object, string given (/var/www/require/framework/web/helpers/CHtml.php:2220)
+Stack trace:
+#0 /var/www/require/framework/web/helpers/CHtml.php(1389): resolveNameID()
+#1 /var/www/require/framework/web/widgets/CActiveForm.php(687): activePasswordField()
+#2 /var/www/vhosts/YiiCms/protected/extensions/bootstrap/widgets/input/TbInputVertical.php(129): TbActiveForm->passwordField()
+#3 /var/www/vhosts/YiiCms/protected/extensions/bootstrap/widgets/input/TbInput.php(273): TbInputVertical->passwordField()
+#4 /var/www/require/framework/web/CBaseController.php(173): TbInputVertical->run()
+#5 /var/www/vhosts/YiiCms/protected/extensions/bootstrap/widgets/TbActiveForm.php(1008): SysadminController->widget()
+#6 /var/www/vhosts/YiiCms/protected/extensions/bootstrap/widgets/TbActiveForm.php(184): TbActiveForm->inputRow()
+#7 /var/www/vhosts/YiiCms/protected/modules/admin/views/sysadmin/changepassword.php(6): TbActiveForm->passwordFieldRow()
+#8 /var/www/require/framework/web/CBaseController.php(126): require()
+#9 /var/www/require/framework/web/CBaseController.php(95): SysadminController->renderInternal()
+#10 /var/www/require/framework/web/CController.php(869): SysadminController->renderFile()
+#11 /var/www/require/framework/web/CController.php(782): SysadminController->renderPartial()
+#12 /var/www/vhosts/YiiCms/protected/modules/admin/controllers/SysadminController.php(12): SysadminController->render()
+#13 /var/www/require/framework/web/actions/CInlineAction.php(49): SysadminController->actionChangepassword()
+#14 /var/www/require/framework/web/CController.php(308): CInlineAction->runWithParams()
+#15 /var/www/require/framework/web/CController.php(286): SysadminController->runAction()
+#16 /var/www/require/framework/web/CController.php(265): SysadminController->runActionWithFilters()
+#17 /var/www/require/framework/web/CWebApplication.php(282): SysadminController->run()
+#18 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#19 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#20 /var/www/vhosts/YiiCms/index.php(13): CWebApplication->run()
+REQUEST_URI=/vhosts/YiiCms/index.php?r=admin/sysadmin/changepassword
+in /var/www/vhosts/YiiCms/protected/extensions/bootstrap/widgets/input/TbInputVertical.php (129)
+in /var/www/vhosts/YiiCms/protected/extensions/bootstrap/widgets/input/TbInput.php (273)
+in /var/www/vhosts/YiiCms/protected/extensions/bootstrap/widgets/TbActiveForm.php (1008)
+2013/04/30 09:05:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message '"admin" isteği çözümlenemedi.' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/YiiCms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/vhosts/YiiCms/index.php?r=admin
+---
+2013/04/30 09:05:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message '"admin/" isteği çözümlenemedi.' in /var/www/require/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/require/framework/web/CWebApplication.php(141): CWebApplication->runController('admin/')
+#1 /var/www/require/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/vhosts/YiiCms/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/vhosts/YiiCms/index.php?r=admin/
+---
